@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mcabreradev/fullstackopen-2019.github.io is built on the following main stack:
+
 - [Google Analytics](http://www.google.com/analytics) – General Analytics
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -15,11 +16,13 @@ mcabreradev/fullstackopen-2019.github.io is built on the following main stack:
 - [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mcabreradev/fullstackopen-2019.github.io is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -33,14 +36,15 @@ mcabreradev/fullstackopen-2019.github.io is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/fullstackopen-2019.github.io](https://github.com/mcabreradev/fullstackopen-2019.github.io)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|32<br/>Tools used|11/14/23 <br/>Report generated|
+|32<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -210,4 +214,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
