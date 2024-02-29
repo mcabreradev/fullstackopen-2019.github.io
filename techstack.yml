@@ -2,7 +2,7 @@ repo_name: mcabreradev/fullstackopen-2019.github.io
 report_id: '0398b8a5968db86dddccc753306e9e75'
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:44:45+00:00'
+timestamp: '2024-02-29T18:44:25+00:00'
 requested_by: mluukkai
 provider: github
 branch: source
@@ -94,7 +94,7 @@ tools:
   last_updated_by: Mark Laatikainen
   last_updated_on: 2019-01-03 11:05:41.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.15.2
   license: MIT
